@@ -1,0 +1,7 @@
+com/masai/a530june_intent_and_filters_add_buyer_you3/BuildConfig.java
+ com.masai.a530june_intent_and_filters_add_buyer_you3.BuildConfig
+com/masai/a530june_intent_and_filters_add_buyer_you3/MainActivity.java
+ com.masai.a530june_intent_and_filters_add_buyer_you3.MainActivity
+ com.masai.a530june_intent_and_filters_add_buyer_you3.MainActivity$1
+com/masai/a530june_intent_and_filters_add_buyer_you3/BuyerDetails.java
+ com.masai.a530june_intent_and_filters_add_buyer_you3.BuyerDetails

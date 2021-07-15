@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">5) 30June_Intent_And_Filters_(Add_Buyer)_You3</string>
+    <string name="tax_id1">Tax ID</string>
+    <string name="company_id1">Company ID</string>
+    <string name="email_id">Email Id</string>
+    <string name="address">Address</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="email">Email</string>
+    <string name="tax_id">Tax ID</string>
+    <string name="company_id">Company ID</string>
+</resources>
